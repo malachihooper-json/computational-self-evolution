@@ -1,4 +1,4 @@
-# Self Evolution
+# Self Evolution Via Code Manipulation in C#
 
 Plug-and-play metaprogramming engine for self-modifying code.
 
@@ -42,3 +42,4 @@ await engine.ModifyCodeAsync(new CodeModification {
 
 - .NET 8.0+
 - Write access to source directory
+
